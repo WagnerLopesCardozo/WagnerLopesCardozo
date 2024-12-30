@@ -40,3 +40,5 @@ English<br><br>Hello, I am a Data Scientist and currently studying for a Master'
 </div>
 
 ###
+
+![Snake animation](https://github.com/WagnerLopesCardozo/WagnerLopesCardozo/blob/output/github-contribution-grid-snake.svg)
