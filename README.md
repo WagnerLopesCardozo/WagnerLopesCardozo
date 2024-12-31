@@ -1,6 +1,6 @@
-Português<p align="left">Olá, sou Cientista de Dados e atualmente cursando o Mestrado Stricto Sensu em Ciência da Computação. Minha linha de Trabalho Acadêmico Científico é Ciência de Dados e Ciência da Computação usando aprendizado de máquina (machine learning) a níveis de aprendizado profundo (deep learning), por meio de redes neurais artificiais convolucionais CNNs, redes complexas, aprendizado estatístico, modelagem matemática, inteligência artificial IA, visão computacional, inteligência computacional, processamento de imagens e linguagem de programação Python com desenvolvimento, implementação e aplicação na área da saúde.😃
+### Português <p align="left">Olá, sou Cientista de Dados e atualmente cursando o Mestrado Stricto Sensu em Ciência da Computação. Minha linha de Trabalho Acadêmico Científico é Ciência de Dados e Ciência da Computação usando aprendizado de máquina (machine learning) a níveis de aprendizado profundo (deep learning), por meio de redes neurais artificiais convolucionais CNNs, redes complexas, aprendizado estatístico, modelagem matemática, inteligência artificial IA, visão computacional, inteligência computacional, processamento de imagens e linguagem de programação Python com desenvolvimento, implementação e aplicação na área da saúde.😃
 
-English<br><br>Hello, I am a Data Scientist and currently studying for a Master's degree in Computer Science. My line of academic work is Data Science and Computer Science using machine learning at deep learning levels, through convolutional artificial neural networks (CNNs), complex networks, statistical learning, mathematical modeling, artificial intelligence (AI), computer vision, computational intelligence, image processing and Python programming language with development, implementation and application in the health area.😀</p>
+### English <br><br>Hello, I am a Data Scientist and currently studying for a Master's degree in Computer Science. My line of academic work is Data Science and Computer Science using machine learning at deep learning levels, through convolutional artificial neural networks (CNNs), complex networks, statistical learning, mathematical modeling, artificial intelligence (AI), computer vision, computational intelligence, image processing and Python programming language with development, implementation and application in the health area.😀</p>
 
 ---
 
@@ -32,10 +32,10 @@ English<br><br>Hello, I am a Data Scientist and currently studying for a Master'
 
 ---
 
-# Linguagem
+# Linguagem de Programação
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 
-# Bibliotecas Python
+# Bibliotecas do Python
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org)
@@ -70,7 +70,7 @@ English<br><br>Hello, I am a Data Scientist and currently studying for a Master'
 
 ---
 
-# Ambiente de Desenvolvimento
+# Ambiente de Desenvolvimento Integrado
 
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
@@ -82,6 +82,19 @@ English<br><br>Hello, I am a Data Scientist and currently studying for a Master'
 # Sistema Operacional
 
 [![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+
+---
+
+# Repositórios
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+
+---
+
+# Front-End
+
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)  
 
 ---
 
