@@ -108,5 +108,4 @@ English<br><br>Hello, I am a Data Scientist and currently studying for a Master'
 Para adicionar uma imagem ao projeto, basta fazer o upload do arquivo de imagem no repositório e referenciá-lo no README usando o código abaixo:
 
 ```markdown
-![Nome da Imagem](caminho/para/sua-imagem.png)
-
+![Nome da Imagem](octocat-1721743884923.png)
