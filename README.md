@@ -2,9 +2,13 @@
 
 # Eu sou o Wagner Lopes Cardozo! 😊
 
-### <p align="left">Sou Cientista de Dados e atualmente cursando o Mestrado Stricto Sensu em Ciência da Computação. Minha linha de Trabalho Acadêmico Científico é Ciência de Dados e Ciência da Computação usando aprendizado de máquina (machine learning) a níveis de aprendizado profundo (deep learning), por meio de redes neurais artificiais convolucionais CNNs, redes complexas, aprendizado estatístico, modelagem matemática, inteligência artificial IA, visão computacional, inteligência computacional, processamento de imagens e linguagem de programação Python com desenvolvimento, implementação e aplicação na área da saúde.😃
+### <p align="justify">Sou Cientista de Dados e atualmente cursando o Mestrado Stricto Sensu em Ciência da Computação. Minha linha de Trabalho Acadêmico Científico é Ciência de Dados e Ciência da Computação usando aprendizado de máquina (machine learning) a níveis de aprendizado profundo (deep learning), por meio de redes neurais artificiais convolucionais CNNs, redes complexas, aprendizado estatístico, modelagem matemática, inteligência artificial IA, visão computacional, inteligência computacional, processamento de imagens e linguagem de programação Python com desenvolvimento, implementação e aplicação na área da saúde.😃</p>
 
-### <br><br>I am a Data Scientist and currently studying for a Master's degree in Computer Science. My line of academic work is Data Science and Computer Science using machine learning at deep learning levels, through convolutional artificial neural networks (CNNs), complex networks, statistical learning, mathematical modeling, artificial intelligence (AI), computer vision, computational intelligence, image processing and Python programming language with development, implementation and application in the health area.😀</p>
+# Hello, how are you? Are you well?
+
+# I'm Wagner Lopes Cardozo!
+
+### <p align="justify">I am a Data Scientist and currently studying for a Master's degree in Computer Science. My line of academic work is Data Science and Computer Science using machine learning at deep learning levels, through convolutional artificial neural networks (CNNs), complex networks, statistical learning, mathematical modeling, artificial intelligence (AI), computer vision, computational intelligence, image processing and Python programming language with development, implementation and application in the health area.😀</p>
 
 ---
 
