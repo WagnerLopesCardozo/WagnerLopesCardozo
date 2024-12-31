@@ -104,8 +104,16 @@ English<br><br>Hello, I am a Data Scientist and currently studying for a Master'
 
 ---
 
-## 🖼️ Incluir Imagem no Projeto
-Para adicionar uma imagem ao projeto, basta fazer o upload do arquivo de imagem no repositório e referenciá-lo no README usando o código abaixo:
+# OctoCat Cientista 😀
 
-```markdown
 ![Nome da Imagem](octocat-1721743884923.png)
+
+
+
+
+
+
+
+
+
+
