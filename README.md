@@ -209,6 +209,12 @@
 
 ![Nome da Imagem](octocat-1721743884923.png)
 
+
+
+<div align="right">
+  <img src="https://github.com/user-attachments/assets/814764cb-17cb-4108-a719-7606114e1c8f" height="80" alt="Python Powered GIF" />
+</div>
+
 ---
 
 # Redes Sociais e E-Mail
