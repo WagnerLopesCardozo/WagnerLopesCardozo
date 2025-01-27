@@ -95,27 +95,7 @@
 
   <!-- Redes Sociais -->
 
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="40" alt="LinkedIn logo" />
-  </a>
-  <img width="12" />
-
-  <a href="https://www.instagram.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" alt="Instagram logo" />
-  </a>
-  <img width="12" />
-
-  <a href="https://www.whatsapp.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="40" alt="WhatsApp logo" />
-  </a>
-  <img width="12" />
-
-  <a href="https://telegram.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="40" alt="Telegram logo" />
-  </a>
-  <img width="12" />  
-
-  
+    
 </div>
 
   
